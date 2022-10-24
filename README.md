@@ -1,11 +1,11 @@
 [![E+E_Logo](./images/epluse-logo.png)](https://www.epluse.com/en/)
 
-# business card breakoutboad
+# Business Card Breakout Board
 [<img src="images/business_card.png" width="30%"/>](images/business_card.png)
 ## GUIDE  
 
 ### Components 
-- Business card breakoutboard
+- Business card breakout board
 - Arduino
 - Wire jumper cable <br>
 <br>
