@@ -12,7 +12,7 @@
 
 
 ### librarys
-Please note that the libraries HTE501 and TEE501 must be included. (https://github.com/epluse/hte501_i2c_arduino)(https://github.com/epluse/tee501_i2c_arduino)
+Please note that the libraries HTE501 and TEE501 must be included. (https://github.com/epluse/hte501_i2c_arduino) (https://github.com/epluse/tee501_i2c_arduino)
 
 | Step |                                                                                                                                                             |
 |------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
